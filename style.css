@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #f063b5;
-  --card-front-color: #855db9;
-  --card-back-color: #55a2eb;
+  --text-color: #1224c2;
+  --card-front-color: #1eafe9;
+  --card-back-color: #9bccec;
 }
 
-body {
-  background: url(Casaflutuantepraia.jpg);
+body{
+  background: url(venice-2225423_1280.jpg));
   font-family: Grandstander;
   background-size: cover;
 

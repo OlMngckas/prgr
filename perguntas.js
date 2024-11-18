@@ -6,28 +6,28 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'
+    'O que é  a italia',
+    ' a italia é um pais.'
 )
 
 criaCartao(
     'Programação',
-    'O que é CSS?',
-    'O CSS é uma lingugem de estilização!'
+    'Onde fica a italia?',
+    ' no sul do continente europeu, ocupando quase toda a Península Itálica, mais as ilhas da Sardenha e da Sicília!'
 )
 
 criaCartao(
     'Programação',
-    'O que é HTML?',
-    'O HTML é uma lingugem de estruturação e semântica do conteúdo.'
+    'como é a bandeira da italia?',
+    'é formada por três cores (tricolor) de igual dimensão vertical: verde, branco e vermelho, com o verde posicionado no lado esquerdo..'
 )
 criaCartao(
     'Programação',
-    'O que é VSCode?',
-    'O Visual Studio Code é um editor de código com diversas integrações.s'
+    'como é a cultura da italia?',
+    'é famosa pela sua arte e pelos seus monumentos, entre os quais se encontram a Torre de Pisa, o Coliseu de Roma, bem como pela sua comida (pizza, pasta, etc.), vinho, estilo de vida,'
 )
 criaCartao(
     'Programação',
-    'O que é GitHub?',
-    'O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem.'
+    'qual é o lugar mais visitado da italia?',
+    '. Veneza, Verona e Lago Garda' 
 )
