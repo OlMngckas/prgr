@@ -31,3 +31,8 @@ criaCartao(
     'qual é o lugar mais visitado da italia?',
     '. Veneza, Verona e Lago Garda' 
 )
+    criaCartao(
+        'Programação',
+        'como é a comida da italia ?',
+        '. vinhos queijo piza  e gelato' 
+    )
